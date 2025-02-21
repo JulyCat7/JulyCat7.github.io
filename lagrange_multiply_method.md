@@ -42,7 +42,7 @@ $$
 所以我们能得到如下的约束：
 
 $$
-\left\{ 
+\left\lbrace
 \begin{array}{ll} 
 h(x) \le 0, \\ 
 \mu \ge 0,\\
