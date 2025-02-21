@@ -69,7 +69,7 @@ $$
 和我们对应的 KKT 条件
 
 $$
-\left\{ 
+\left\lbrace
 \begin{array}{ll} 
 h_j(x) \le 0, \\ 
 \mu_j \ge 0,\\
