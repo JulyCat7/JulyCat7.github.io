@@ -1,4 +1,5 @@
-# 拉格朗日乘子法 Lagrange Multiply method 
+拉格朗日乘子法 Lagrange Multiply method
+===
 
 ## 等式约束问题
 假设 $x$ 是一个 $d-dimension$ 的向量，且我们有如下的优化问题：（ $g(x)$ 确定一个 d-1 维的空间）
