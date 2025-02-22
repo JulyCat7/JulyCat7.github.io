@@ -15,7 +15,7 @@ $$
 所以，从上述的性质中，我们可以得出以下结论：在最优解 $x^*$处，$\nabla g(x^*)$ 与 $\nabla f(x^*)$ 只可能同向或者反向（事实上，$\nabla f(x^*)$ 可以用 $\nabla g(x^*)$ 线性表示。这在有多个等式约束的时候也可以这样理解：$\nabla f(x^*)=\sum\lambda_i g_i(x^*)$, $\exist \lambda_i$ ）。所以我们可以以下的式子成立：
 
 $$
-\nabla f(x^*) + \lambda \nabla g(x^*) = 0.\quad \quad(1)
+\nabla f(x^\*) + \lambda \nabla g(x^*) = 0.\quad \quad(1)
 $$
 
 所以我们可以按照如下的形式定义我们的拉格朗日函数：
